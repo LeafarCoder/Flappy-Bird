@@ -1,5 +1,8 @@
 # Flappy Bird
- Remake of Flappy Bird's game from scratch in Java ([Processing](https://processing.org/) library)
+ Remake of Flappy Bird's game from scratch in Java ([Processing](https://processing.org/) library).
+ Project done in March 2017.
+ 
+ Here's a small showcase of the final product:
  
  ![gif](screenshots/showcase.gif)
 
