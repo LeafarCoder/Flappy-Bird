@@ -1,7 +1,7 @@
 # Flappy Bird
  Remake of Flappy Bird's game from scratch in Java ([Processing](https://processing.org/) library)
  
- ![gif](/address...)
+ ![gif](screenshots/showcase.gif)
 
 ## Commands:
 
