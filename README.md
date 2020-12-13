@@ -9,11 +9,11 @@
 ## Run Game:
 
 To run the game on your computer:
-1. Install Processing from [here](https://processing.org/download/)
-2. Open Processing and under *Tools > Add Tools... > Libraries* install the *Minim* library (provides sound)
+1. Install Processing from [here](https://processing.org/download/).
+2. Open Processing and under *Tools > Add Tools... > Libraries* install the *Minim* library (provides sound).
 3. Download the game directory clicking [here](https://github.com/LeafarCoder/Flappy-Bird/archive/master.zip) or with any other option from the green button above.
-4. Open the Flappy_Birds.pde file (inside the Flappy_Birds folder) with Processing
-5. Run the sketch
+4. Open the *Flappy_Birds.pde* file (inside the Flappy_Birds folder) with Processing.
+5. Run the sketch (play button on top or *CTRL+R*).
 
 ## Commands:
 
