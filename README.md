@@ -2,9 +2,18 @@
  Remake of Flappy Bird's game from scratch in Java ([Processing](https://processing.org/) library).
  Project done in March 2017.
  
- Here's a small showcase of the final product:
+ Here's a small showcase of the final game:
  
  ![gif](screenshots/showcase.gif)
+ 
+## Run Game:
+
+To run the game on your computer:
+1. Install Processing from [here](https://processing.org/download/)
+2. Open Processing and under *Tools > Add Tools... > Libraries* install the *Minim* library (provides sound)
+3. Download the game directory clicking [here](https://github.com/LeafarCoder/Flappy-Bird/archive/master.zip) or with any other option from the green button above.
+4. Open the Flappy_Birds.pde file (inside the Flappy_Birds folder) with Processing
+5. Run the sketch
 
 ## Commands:
 
